@@ -1,0 +1,26 @@
+{
+  "name": "rebel",
+  "version": "0.0.1",
+  "engines": [
+    "node >=0.4.0"
+  ],
+  "description": "Code generator for PHP and JavaScript",
+  "author": {
+    "name": "Pablo Vallejo",
+    "email": "pabloninety@gmail.com"
+  },
+  "keywords": [
+    "command",
+    "shell",
+    "generator"
+  ],
+  "repository": {
+      "url": "https://github.com/PabloVallejo/Rebel"
+    },
+  "bin": {
+    "rebel": "./bin/rebel.js"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {}
+}
