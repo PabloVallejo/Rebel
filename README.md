@@ -45,6 +45,9 @@ $ rebel generate php view MyView
 
 # application/helpers/mycontroller.php
 $ rebel generate php helper MyHelper
+
+# Generate model, view, controller and helper.
+$ rebel generate php object MyObject
 ```
 
 **JavaScritp ( [Gillie](https://github.com/PabloVallejo/gillie) )**
@@ -64,6 +67,9 @@ $ rebel generate js view MyView
 
 # assets/helpers/myhelper.js
 $ rebel generate js helper MyHelper
+
+# Generate handler, model, view and controller.
+$ rebel generate js object myObject
 
 ```
 
