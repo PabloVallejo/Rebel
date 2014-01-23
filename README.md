@@ -1,7 +1,16 @@
 Rebel
 =====
 
-Rebel is a code generator for PHP and JavaScript code
+Rebel is a code generator for PHP and JavaScript code written in [Node JS](http://nodejs.org/).
+
+## Installation
+
+Rebel can be installed via npm, that means you have to install [Node JS](http://nodejs.org/) which comes with npm,
+and then via npm install rebel.
+
+```bash
+$ npm install rebel -g
+```
 
 ## Usage
 
